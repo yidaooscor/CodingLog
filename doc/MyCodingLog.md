@@ -1,10 +1,10 @@
 <!--
  * @Author: YichaoZhao
  * @Date: 2021-03-04 10:06:42
- * @LastEditTime: 2021-03-23 13:30:50
+ * @LastEditTime: 2021-03-24 16:04:00
  * @LastEditors: YichaoZhao
  * @Description: In User Settings Edit#
- * @FilePath: /CodingLog/刀刀的编程日志.md
+ * @FilePath: /CodingLog/doc/MyCodingLog.md
 -->
 
 # 前言
@@ -223,3 +223,15 @@ C++ 获取当前文件路径:
 
 今天下午继续学习C++的基本常识
 [CppNote](./CppNote.md)
+
+
+## 2021-03-24 
+
+今天上午将我的coding日志全部转到线上的github中了，之后可以降低对u盘的依赖了
+
+今天上午准备完成对dashboard的更新，添加一个新的topic
+
+今天开始认真看一下设计模式，开一个新的md
+
+[DesignPatterns](./DesignPatterns.md)
+
