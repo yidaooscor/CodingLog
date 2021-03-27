@@ -1,7 +1,7 @@
 <!--
  * @Author: YichaoZhao
  * @Date: 2021-03-04 10:06:42
- * @LastEditTime: 2021-03-25 09:58:20
+ * @LastEditTime: 2021-03-26 08:54:05
  * @LastEditors: YichaoZhao
  * @Description: In User Settings Edit#
  * @FilePath: /CodingLog/doc/MyCodingLog.md
@@ -238,4 +238,10 @@ C++ 获取当前文件路径:
 
 ## 2021-03-25
 
-今天上午继续看设计模式
+今天上午继续看设计模式,下午也继续看，晚上做了两道题
+
+## 2021-03-26
+
+今天上午准备复习一下数据结构（data structure）
+
+[DataStructure](./DataStructure.md)
